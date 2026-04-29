@@ -20,7 +20,7 @@ prisma · postgres · rabbitmq · redis · aws
 
 ---
 
-[linkedin](https://www.linkedin.com/in/cplx/) · yan.castro@movvia.com.br
+[linkedin](https://www.linkedin.com/in/cplx/) · yancastrohenrique1@gmail.com
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yan404dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&hide=stars,issues" alt="" height="160" />
