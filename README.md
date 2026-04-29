@@ -10,7 +10,6 @@ prisma · postgres · rabbitmq · redis · aws
 ##### currently
 
 - `@movvia` — full stack · pedágio eletrônico (multi-tenant whitelabel, 8+ portais)
-- `@routerlink` — pj · erp fiscal integrado a sefaz
 
 ##### projects
 
