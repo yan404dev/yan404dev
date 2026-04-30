@@ -21,11 +21,3 @@ prisma · postgres · rabbitmq · redis · aws
 ---
 
 [linkedin](https://www.linkedin.com/in/cplx/) · yancastrohenrique1@gmail.com
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/yan404dev/yan404dev/main/spotify-now-playing.svg" alt="now playing: vida simples — tokio dk" height="96" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan404dev&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&hide=html,css&langs_count=8" alt="" height="160" />
-</p>
